@@ -1,0 +1,140 @@
+Tablica 10000 posortowana 0% 
+Minimalny czas:1
+Maksymalny czas:1
+Sredni czas:1
+Tablica 10000 posortowana 25% 
+Minimalny czas:1
+Maksymalny czas:1
+Sredni czas:1
+Tablica 10000 posortowana 50% 
+Minimalny czas:1
+Maksymalny czas:1
+Sredni czas:1
+Tablica 10000 posortowana 75% 
+Minimalny czas:0
+Maksymalny czas:1
+Sredni czas:0.03
+Tablica 10000 posortowana 95% 
+Minimalny czas:0
+Maksymalny czas:1
+Sredni czas:0.02
+Tablica 10000 posortowana 99% 
+Minimalny czas:0
+Maksymalny czas:4
+Sredni czas:0.67
+Tablica 10000 posortowana 99.7% 
+Minimalny czas:1
+Maksymalny czas:10
+Sredni czas:2.52
+Tablica 50000 posortowana 0% 
+Minimalny czas:6
+Maksymalny czas:6
+Sredni czas:6
+Tablica 50000 posortowana 25% 
+Minimalny czas:6
+Maksymalny czas:6
+Sredni czas:6
+Tablica 50000 posortowana 50% 
+Minimalny czas:5
+Maksymalny czas:7
+Sredni czas:5.79
+Tablica 50000 posortowana 75% 
+Minimalny czas:4
+Maksymalny czas:5
+Sredni czas:4.99
+Tablica 50000 posortowana 95% 
+Minimalny czas:3
+Maksymalny czas:6
+Sredni czas:3.87
+Tablica 50000 posortowana 99% 
+Minimalny czas:3
+Maksymalny czas:22
+Sredni czas:5.97
+Tablica 50000 posortowana 99.7% 
+Minimalny czas:6
+Maksymalny czas:90
+Sredni czas:18.62
+Tablica 100000 posortowana 0% 
+Minimalny czas:13
+Maksymalny czas:14
+Sredni czas:13.98
+Tablica 100000 posortowana 25% 
+Minimalny czas:13
+Maksymalny czas:13
+Sredni czas:13
+Tablica 100000 posortowana 50% 
+Minimalny czas:12
+Maksymalny czas:13
+Sredni czas:12.04
+Tablica 100000 posortowana 75% 
+Minimalny czas:10
+Maksymalny czas:14
+Sredni czas:10.16
+Tablica 100000 posortowana 95% 
+Minimalny czas:7
+Maksymalny czas:12
+Sredni czas:8.67
+Tablica 100000 posortowana 99% 
+Minimalny czas:8
+Maksymalny czas:28
+Sredni czas:13.61
+Tablica 100000 posortowana 99.7% 
+Minimalny czas:10
+Maksymalny czas:230
+Sredni czas:31.91
+Tablica 500000 posortowana 0% 
+Minimalny czas:78
+Maksymalny czas:82
+Sredni czas:78.76
+Tablica 500000 posortowana 25% 
+Minimalny czas:74
+Maksymalny czas:78
+Sredni czas:76
+Tablica 500000 posortowana 50% 
+Minimalny czas:69
+Maksymalny czas:73
+Sredni czas:70.34
+Tablica 500000 posortowana 75% 
+Minimalny czas:59
+Maksymalny czas:68
+Sredni czas:60.32
+Tablica 500000 posortowana 95% 
+Minimalny czas:44
+Maksymalny czas:81
+Sredni czas:51.4
+Tablica 500000 posortowana 99% 
+Minimalny czas:60
+Maksymalny czas:296
+Sredni czas:98.14
+Tablica 500000 posortowana 99.7% 
+Minimalny czas:77
+Maksymalny czas:502
+Sredni czas:186.07
+Tablica 1000000 posortowana 0% 
+Minimalny czas:164
+Maksymalny czas:169
+Sredni czas:165.31
+Tablica 1000000 posortowana 25% 
+Minimalny czas:157
+Maksymalny czas:175
+Sredni czas:160.52
+Tablica 1000000 posortowana 50% 
+Minimalny czas:145
+Maksymalny czas:152
+Sredni czas:148.06
+Tablica 1000000 posortowana 75% 
+Minimalny czas:123
+Maksymalny czas:146
+Sredni czas:127.28
+Tablica 1000000 posortowana 95% 
+Minimalny czas:94
+Maksymalny czas:165
+Sredni czas:107.54
+Tablica 1000000 posortowana 99% 
+Minimalny czas:134
+Maksymalny czas:714
+Sredni czas:215.46
+Tablica 1000000 posortowana 99.7% 
+Minimalny czas:142
+Maksymalny czas:1416
+Sredni czas:381.41

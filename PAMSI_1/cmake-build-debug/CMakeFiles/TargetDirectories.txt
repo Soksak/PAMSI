@@ -1,0 +1,3 @@
+/home/filip/CLionProjects/PAMSI/PAMSI_P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/filip/CLionProjects/PAMSI/PAMSI_P1/cmake-build-debug/CMakeFiles/PAMSI_P1.dir
+/home/filip/CLionProjects/PAMSI/PAMSI_P1/cmake-build-debug/CMakeFiles/edit_cache.dir
