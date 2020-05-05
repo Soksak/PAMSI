@@ -48,10 +48,10 @@ RM = /home/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/filip/Pulpit/PAMSI__/PAMSI_2
+CMAKE_SOURCE_DIR = /home/filip/Pulpit/PAMSI__/PAMSI_3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/filip/Pulpit/PAMSI__/PAMSI_2/cmake-build-debug
+CMAKE_BINARY_DIR = /home/filip/Pulpit/PAMSI__/PAMSI_3/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/filip/Pulpit/PAMSI__/PAMSI_2/cmake-build-debug/CMakeFiles /home/filip/Pulpit/PAMSI__/PAMSI_2/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/filip/Pulpit/PAMSI__/PAMSI_3/cmake-build-debug/CMakeFiles /home/filip/Pulpit/PAMSI__/PAMSI_3/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/filip/Pulpit/PAMSI__/PAMSI_2/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/filip/Pulpit/PAMSI__/PAMSI_3/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,87 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
+AdjacencyMatrix.o: AdjacencyMatrix.cpp.o
+
+.PHONY : AdjacencyMatrix.o
+
+# target to build an object file
+AdjacencyMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/AdjacencyMatrix.cpp.o
+.PHONY : AdjacencyMatrix.cpp.o
+
+AdjacencyMatrix.i: AdjacencyMatrix.cpp.i
+
+.PHONY : AdjacencyMatrix.i
+
+# target to preprocess a source file
+AdjacencyMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/AdjacencyMatrix.cpp.i
+.PHONY : AdjacencyMatrix.cpp.i
+
+AdjacencyMatrix.s: AdjacencyMatrix.cpp.s
+
+.PHONY : AdjacencyMatrix.s
+
+# target to generate assembly for a file
+AdjacencyMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/AdjacencyMatrix.cpp.s
+.PHONY : AdjacencyMatrix.cpp.s
+
+Adjacencylist.o: Adjacencylist.cpp.o
+
+.PHONY : Adjacencylist.o
+
+# target to build an object file
+Adjacencylist.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/Adjacencylist.cpp.o
+.PHONY : Adjacencylist.cpp.o
+
+Adjacencylist.i: Adjacencylist.cpp.i
+
+.PHONY : Adjacencylist.i
+
+# target to preprocess a source file
+Adjacencylist.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/Adjacencylist.cpp.i
+.PHONY : Adjacencylist.cpp.i
+
+Adjacencylist.s: Adjacencylist.cpp.s
+
+.PHONY : Adjacencylist.s
+
+# target to generate assembly for a file
+Adjacencylist.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/Adjacencylist.cpp.s
+.PHONY : Adjacencylist.cpp.s
+
+GraphBase.o: GraphBase.cpp.o
+
+.PHONY : GraphBase.o
+
+# target to build an object file
+GraphBase.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/GraphBase.cpp.o
+.PHONY : GraphBase.cpp.o
+
+GraphBase.i: GraphBase.cpp.i
+
+.PHONY : GraphBase.i
+
+# target to preprocess a source file
+GraphBase.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/GraphBase.cpp.i
+.PHONY : GraphBase.cpp.i
+
+GraphBase.s: GraphBase.cpp.s
+
+.PHONY : GraphBase.s
+
+# target to generate assembly for a file
+GraphBase.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/GraphBase.cpp.s
+.PHONY : GraphBase.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... untitled5"
 	@echo "... edit_cache"
+	@echo "... AdjacencyMatrix.o"
+	@echo "... AdjacencyMatrix.i"
+	@echo "... AdjacencyMatrix.s"
+	@echo "... Adjacencylist.o"
+	@echo "... Adjacencylist.i"
+	@echo "... Adjacencylist.s"
+	@echo "... GraphBase.o"
+	@echo "... GraphBase.i"
+	@echo "... GraphBase.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

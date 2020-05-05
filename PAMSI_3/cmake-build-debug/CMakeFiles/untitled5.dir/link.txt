@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled5.dir/main.cpp.o CMakeFiles/untitled5.dir/Adjacencylist.cpp.o CMakeFiles/untitled5.dir/AdjacencyMatrix.cpp.o CMakeFiles/untitled5.dir/GraphBase.cpp.o  -o untitled5 
