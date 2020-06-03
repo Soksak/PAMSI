@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1590689879 source:/home/filip/Dokumenty/sddd/main.cpp
+	"Game.h"
+	<iostream>
+
+1590689328 /home/filip/Dokumenty/sddd/include/Game.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<climits>
+
+1590689644 source:/home/filip/Dokumenty/sddd/src/Game.cpp
+	"Game.h"
+
+1590689879 source:/home/filip/Dokumenty/PAMSI_4/main.cpp
+	"Game.h"
+	<iostream>
+
+1590689328 /home/filip/Dokumenty/PAMSI_4/include/Game.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<climits>
+
+1590689644 source:/home/filip/Dokumenty/PAMSI_4/src/Game.cpp
+	"Game.h"
+
